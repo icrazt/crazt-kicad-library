@@ -246,12 +246,7 @@
   (pad "19" smd rect (at 0.96 -0.9) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8af22483-6986-4db8-a478-e3da735ace71))
   (pad "19" smd rect (at 0.96 0.2) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8ce025a1-9853-4cfa-8a57-0f90476397e9))
   (pad "19" smd rect (at 0.96 1.3) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e13a898a-5de8-4d94-a80e-b064cdd01fc8))
-  (model "${KIPRJMOD}/kicad_lceda.3dshapes/BULETM-SMD_ESPRESSIF_ESP32-C3-WROOM-02-N4-4MB.step"
-    (offset (xyz 0 3.1 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "${KIPRJMOD}/kicad_lceda.3dshapes/BULETM-SMD_ESPRESSIF_ESP32-C3-WROOM-02-N4-4MB.wrl"
+  (model "${CRAZT_3DMOD_DIR}/Crazt_Module_ESP.3dshapes/BULETM-SMD_ESPRESSIF_ESP32-C3-WROOM-02-N4-4MB.wrl"
     (offset (xyz 0 3.1 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
