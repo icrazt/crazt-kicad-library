@@ -35,7 +35,7 @@
   (pad "11" smd roundrect (at 0.7 2.8) (size 3.4 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b0a94ca4-9bed-4d42-8da7-3477050f2821))
   (pad "12" smd roundrect (at 0.7 3.5) (size 3.4 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8d8d38d8-ab21-41d8-a9a1-61354f6fc046))
   (pad "13" smd roundrect (at 0.7 4.2) (size 3.4 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9c5a79dc-679c-4f60-ab30-81c8ce1f39ee))
-  (model "${CRAZT_3DMOD_DIR}/Crazt_LCD_TFT/TFT_LCD_1.14/1.14 TFT IPS - 13P - Flat Flush Mount.stp"
+  (model "${CRAZT_3DMOD_DIR}/Crazt_LCD_TFT.3dshapes/TFT_LCD_1.14/1.14 TFT IPS - 13P - Flat Flush Mount.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
